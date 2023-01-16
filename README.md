@@ -1,7 +1,7 @@
 # AppleDrip
 Django Rest API/ Angular Material
 
-Group Members
+Group Members:
 
 Keith Aubrey Roxas
 
